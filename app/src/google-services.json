@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252977412936",
+    "project_id": "rafa-todolist",
+    "storage_bucket": "rafa-todolist.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252977412936:android:4589867ce298a927e9d17d",
+        "android_client_info": {
+          "package_name": "com.coding.meet.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252977412936-1i6gk81peq0bs3h0nl4427em12j0aiul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6kEHlQRkoLwb6K5vyTF-mOZQzcLHhYAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252977412936-1i6gk81peq0bs3h0nl4427em12j0aiul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
